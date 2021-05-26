@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "0.62.0",
     "react-native-image-picker": "^0.26.10",
     "rn-fetch-blob": "^0.10.13"
   },
